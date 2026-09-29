@@ -166,7 +166,7 @@ button { font-family: var(--font-tubuh); }
 .hero__latar {
   position: absolute;
   inset: 0;
-  background-image: url("../img/lain/hero.svg");
+  background-image: url("../img/lain/bg_yalimo.jpg");
   background-size: cover;
   background-position: center bottom;
   z-index: -2;
@@ -223,7 +223,7 @@ button { font-family: var(--font-tubuh); }
 .hero__watermark {
   position: absolute;
   inset: 0;
-  background-image: url("../img/logo/logo.svg");
+  background-image: url("../img/logo/yalimobg.jpg");
   background-repeat: no-repeat;
   background-size: 440px auto;
   background-position: center;
@@ -809,7 +809,7 @@ mark {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("../img/lain/hero.svg");
+  background-image: url("../img/lain/bg_yalimo.jpg");
   background-size: cover;
   background-position: center;
   z-index: -2;
